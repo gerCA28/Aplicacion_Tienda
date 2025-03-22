@@ -1,9 +1,9 @@
 import { ArrowRight } from "lucide-react";
-import { Button } from "~/components/ui/button";
+import { Button } from "../components/ui/button";
 
 export default function UI() {
   return (
-    <div className="max-w-screen-md m-auto h-screen p-4">
+    <div className="max-w-screen-lg m-auto h-screen p-4">
       <div className="w-full h-full p-4 rounded-2xl text-sm">
         <div className="flex flex-row items-center">
           <h1 className="text-7xl text-green-700 px-4 font-bold">
